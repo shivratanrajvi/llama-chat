@@ -81,13 +81,7 @@ function CTA({ shortenedModelName }) {
     );
   } else {
     return (
-      <a
-        href="https://replicate.com/blog/run-llama-2-with-an-api?utm_source=project&utm_campaign=llama2ai"
-        target="_blank"
-        className="underline"
-      >
-        Run and fine-tune Llama 2 in the cloud.
-      </a>
+
     );
   }
 }
